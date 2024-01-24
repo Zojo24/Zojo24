@@ -1,6 +1,6 @@
 <div align=center>
 
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi,%20I'm%20Zojo!&fontColor=d6ace6&fontSize=50)
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Hi,%20I'm%20Zojo!&fontSize=50)
 
 
 ## 궁금한게 많고 공부하는 걸 좋아하는 신입 개발자입니다!
